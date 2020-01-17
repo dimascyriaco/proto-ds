@@ -1,0 +1,1 @@
+System.register(["./p-46ad7b8f.system.js"],(function(){"use strict";var t,e;return{setters:[function(n){t=n.p;e=n.b}],execute:function(){t().then((function(t){return e([["p-nzspktcb.system",[[1,"proto-button",{disabled:[4],secondary:[4],minimal:[4]}]]]],t)}))}}}));
