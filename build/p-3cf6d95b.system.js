@@ -1,0 +1,1 @@
+System.register(["./p-5c9472de.system.js"],(function(){"use strict";var e,t;return{setters:[function(n){e=n.p;t=n.b}],execute:function(){e().then((function(e){return t([["p-vkekdpag.system",[[1,"proto-button",{disabled:[4],secondary:[4],minimal:[4]}],[1,"proto-heading",{size:[2]}]]]],e)}))}}}));
